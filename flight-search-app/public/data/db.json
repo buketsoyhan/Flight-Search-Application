@@ -1,0 +1,205 @@
+{
+    "flights": [
+      {
+        "id": 1,
+        "departureTime": "2023-12-25T12:00:00",
+        "arrivalTime": "2023-12-25T15:00:00",
+        "flightDuration": "3 hours",
+        "price": 200,
+        "airline": "Airline 1",
+        "fromCity": "Ankara",
+        "toCity": "Berlin"
+      },
+      {
+        "id": 2,
+        "departureTime": "2023-12-26T10:30:00",
+        "arrivalTime": "2023-12-26T13:30:00",
+        "flightDuration": "3 hours",
+        "price": 250,
+        "airline": "Airline 2",
+        "fromCity": "Berlin",
+        "toCity": "Ankara"
+      },
+      {
+        "id": 3,
+        "departureTime": "2023-12-27T08:00:00",
+        "arrivalTime": "2023-12-27T11:30:00",
+        "flightDuration": "3 hours and 30 minutes",
+        "price": 180,
+        "airline": "Airline 3",
+        "fromCity": "Tokyo",
+        "toCity": "New York"
+      },
+      {
+        "id": 4,
+        "departureTime": "2023-12-28T15:45:00",
+        "arrivalTime": "2023-12-28T18:15:00",
+        "flightDuration": "3 hours and 30 minutes",
+        "price": 220,
+        "airline": "Airline 4",
+        "fromCity": "New York",
+        "toCity": "Tokyo"
+      },
+      {
+        "id": 5,
+        "departureTime": "2023-12-29T06:30:00",
+        "arrivalTime": "2023-12-29T09:45:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 190,
+        "airline": "Airline 5",
+        "fromCity": "London",
+        "toCity": "Paris"
+      },
+      {
+        "id": 6,
+        "departureTime": "2023-12-30T12:30:00",
+        "arrivalTime": "2023-12-30T15:15:00",
+        "flightDuration": "2 hours and 45 minutes",
+        "price": 210,
+        "airline": "Airline 6",
+        "fromCity": "Paris",
+        "toCity": "London"
+      },
+      {
+        "id": 7,
+        "departureTime": "2023-12-31T20:00:00",
+        "arrivalTime": "2023-12-31T23:30:00",
+        "flightDuration": "3 hours and 30 minutes",
+        "price": 240,
+        "airline": "Airline 7",
+        "fromCity": "Sydney",
+        "toCity": "Hong Kong"
+      },
+      {
+        "id": 8,
+        "departureTime": "2024-01-01T03:15:00",
+        "arrivalTime": "2024-01-01T06:00:00",
+        "flightDuration": "2 hours and 45 minutes",
+        "price": 200,
+        "airline": "Airline 8",
+        "fromCity": "Hong Kong",
+        "toCity": "Sydney"
+      },
+      {
+        "id": 9,
+        "departureTime": "2024-01-02T14:45:00",
+        "arrivalTime": "2024-01-02T18:15:00",
+        "flightDuration": "3 hours and 30 minutes",
+        "price": 260,
+        "airline": "Airline 9",
+        "fromCity": "Rio de Janeiro",
+        "toCity": "Cape Town"
+      },
+      {
+        "id": 10,
+        "departureTime": "2024-01-03T09:30:00",
+        "arrivalTime": "2024-01-03T12:45:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 230,
+        "airline": "Airline 10",
+        "fromCity": "Cape Town",
+        "toCity": "Rio de Janeiro"
+      },
+      {
+        "id": 11,
+        "departureTime": "2024-01-04T18:00:00",
+        "arrivalTime": "2024-01-04T21:15:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 180,
+        "airline": "Airline 11",
+        "fromCity": "Moscow",
+        "toCity": "Beijing"
+      },
+      {
+        "id": 12,
+        "departureTime": "2024-01-05T12:15:00",
+        "arrivalTime": "2024-01-05T15:30:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 210,
+        "airline": "Airline 12",
+        "fromCity": "Beijing",
+        "toCity": "Moscow"
+      },
+      {
+        "id": 13,
+        "departureTime": "2024-01-06T06:45:00",
+        "arrivalTime": "2024-01-06T10:15:00",
+        "flightDuration": "3 hours and 30 minutes",
+        "price": 240,
+        "airline": "Airline 13",
+        "fromCity": "Mumbai",
+        "toCity": "Dubai"
+      },
+      {
+        "id": 14,
+        "departureTime": "2024-01-07T15:30:00",
+        "arrivalTime": "2024-01-07T19:00:00",
+        "flightDuration": "3 hours and 30 minutes",
+        "price": 200,
+        "airline": "Airline 14",
+        "fromCity": "Dubai",
+        "toCity": "Mumbai"
+      },
+      {
+        "id": 15,
+        "departureTime": "2024-01-08T09:00:00",
+        "arrivalTime": "2024-01-08T12:15:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 220,
+        "airline": "Airline 15",
+        "fromCity": "Berlin",
+        "toCity": "Paris"
+      },
+      {
+        "id": 16,
+        "departureTime": "2024-01-09T17:45:00",
+        "arrivalTime": "2024-01-09T20:15:00",
+        "flightDuration": "2 hours and 30 minutes",
+        "price": 190,
+        "airline": "Airline 16",
+        "fromCity": "Paris",
+        "toCity": "Berlin"
+      },
+      {
+        "id": 17,
+        "departureTime": "2024-01-10T20:30:00",
+        "arrivalTime": "2024-01-10T23:00:00",
+        "flightDuration": "2 hours and 30 minutes",
+        "price": 250,
+        "airline": "Airline 17",
+        "fromCity": "New York",
+        "toCity": "Los Angeles"
+      },
+      {
+        "id": 18,
+        "departureTime": "2024-01-11T12:45:00",
+        "arrivalTime": "2024-01-11T16:00:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 230,
+        "airline": "Airline 18",
+        "fromCity": "Los Angeles",
+        "toCity": "New York"
+      },
+      {
+        "id": 19,
+        "departureTime": "2024-01-12T08:15:00",
+        "arrivalTime": "2024-01-12T11:30:00",
+        "flightDuration": "3 hours and 15 minutes",
+        "price": 210,
+        "airline": "Airline 19",
+        "fromCity": "Sydney",
+        "toCity": "Tokyo"
+      },
+      {
+        "id": 20,
+        "departureTime": "2024-01-13T14:30:00",
+        "arrivalTime": "2024-01-13T17:30:00",
+        "flightDuration": "3 hours",
+        "price": 240,
+        "airline": "Airline 20",
+        "fromCity": "Tokyo",
+        "toCity": "Sydney"
+      }
+    ]
+  }
+  
